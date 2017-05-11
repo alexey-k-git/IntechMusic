@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IntechMusic</string>
+    <string name="keyword">Ключевое слово:</string>
+    <string name="table">Таблица</string>
+    <string name="list">Список</string>
+    <string name="find">НАЙТИ</string>
+    <string name="song_name">Имя композиции</string>
+    <string name="artist">Исполнитель</string>
+    <string name="pause">пауза</string>
+    <string name="start">старт</string>
+</resources>
