@@ -125,6 +125,8 @@ public class MainActivity extends Activity implements Listener {
     }
 
 
+
+
     //открытие активности плеера
     public void startPlaySongActivity(Song song) {
         Intent intent = new Intent(MainActivity.this, PlayMusicActivity.class);
